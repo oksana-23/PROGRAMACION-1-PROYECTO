@@ -1,5 +1,7 @@
+import modulo_funcione.core as f
+
 def main():
-    print("Hola")
+    pass
 
 
 

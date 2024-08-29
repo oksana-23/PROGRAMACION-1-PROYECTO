@@ -1,3 +1,6 @@
+import modulo_funciones.core as f
+
+
 def main():
     print("Hola")
 

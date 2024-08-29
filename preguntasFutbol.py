@@ -1,6 +1,6 @@
 # Lista de preguntas con opciones
 preguntas_futbol = [
-    "¿Qué selección ha ganado más Copas del Mundo? a) Brasil b) Alemania c) Italia d)",
+    "¿Qué selección ha ganado más Copas del Mundo? a) Brasil b) Alemania c) Italia d) Argentina",
     "¿En qué año Argentina ganó su primer Mundial de fútbol? a) 1974 b) 1978 c) 1986 d) 1990",
     "¿Cuál es el club con más títulos de la UEFA Champions League? a) AC Milan b) FC Barcelona c) Real Madrid d) Bayern Múnich",
     "¿Qué jugador fue transferido por una cifra récord de 222 millones de euros en 2017? a) Cristiano Ronaldo b) Neymar Jr. c) Lionel Messi d) Kylian Mbappé",
